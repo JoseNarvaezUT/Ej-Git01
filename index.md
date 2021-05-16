@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"  >
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,6 +10,10 @@
     <h1>Hola Mundo a todos</h1>
     <h2>Modifciación 1</h2>
     <h3>Modificación 2</h3>
-    <h4>Modificación realizada en "miRama"</h4>
+    <h4>Modificación realizada en "miRama"</h4>ç
+    
+    <script>
+        alert("Hola a todos");
+    </script>
 </body>
 </html>
